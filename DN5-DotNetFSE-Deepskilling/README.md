@@ -1,23 +1,17 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Cognizant_logo_2022.svg" width="320" alt="Cognizant" />
+
 </p>
 
 <h1 align="center">Cognizant Digital Nurture 5.0 — Deep Skilling Program</h1>
 <h3 align="center">DotNet Full Stack Engineer (FSE) | Angular Track | Batch of 2027</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-.NET%208.0-512BD4?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-v20.0-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-Advanced-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+
   <img src="https://img.shields.io/badge/ASP.NET%20Core-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-2ea44f?style=flat-square" />
 </p>
 
----
-
-**Author:** Md Sarfaraz Alam, B.Tech CSE — [GitHub @Sarfarazsfz](https://github.com/Sarfarazsfz)
-
----
 
 ## About This Repository
 
