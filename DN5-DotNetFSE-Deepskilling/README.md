@@ -1,6 +1,6 @@
 <p align="center">
 
-</p>
+</
 
 <h1 align="center">Cognizant Digital Nurture 5.0 — Deep Skilling Program</h1>
 <h3 align="center">DotNet Full Stack Engineer (FSE) | Angular Track | Batch of 2027</h3>
@@ -142,9 +142,6 @@ Window functions using OVER(), PARTITION BY, ROW_NUMBER, RANK, and DENSE_RANK. C
 - .NET 8 SDK
 - SQL Server + SSMS (for Week 3 and Week 4)
 - Node.js + Angular CLI (for Week 6)
-
-```bash
-git clone https://github.com/Sarfarazsfz/DN5.0-DeepSkilling-DotNetFSE.git
 cd Week1-DesignPatterns/SOLID-Principles/
 dotnet run
 ```
