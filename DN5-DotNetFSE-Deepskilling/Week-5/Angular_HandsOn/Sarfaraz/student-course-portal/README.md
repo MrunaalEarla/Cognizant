@@ -126,10 +126,6 @@ student-course-portal
 └── README.md
 ```
 
-## Author
-
-**Md Sarfaraz Alam**
-
 B.Tech Computer Science and Engineering
 
 VFSTR University, Guntur
